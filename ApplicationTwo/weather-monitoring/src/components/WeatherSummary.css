@@ -1,0 +1,19 @@
+.weather-summary {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px;
+    flex: 0 1 calc(30% - 20px); /* Responsive */
+    text-align: center;
+  }
+  
+  .weather-summary h2 {
+    font-size: 1.5em;
+    color: #4a4a4a;
+  }
+  
+  .weather-summary p {
+    margin: 5px 0;
+  }
+  

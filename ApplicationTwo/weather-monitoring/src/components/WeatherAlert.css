@@ -1,0 +1,14 @@
+.weather-alert {
+    background-color: #ffcccb;
+    border: 1px solid #f44336;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px 0;
+    color: #d8000c;
+    font-weight: bold;
+  }
+  
+  .weather-alert h3 {
+    margin: 0;
+  }
+  
